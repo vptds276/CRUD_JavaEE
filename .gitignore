@@ -1,0 +1,6 @@
+/build/
+/dist/
+/CRUD_JavaEE-war/dist/
+/CRUD_JavaEE-war/build/
+/CRUD_JavaEE-ejb/build/
+/CRUD_JavaEE-ejb/dist/
